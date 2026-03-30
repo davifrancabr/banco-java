@@ -1,12 +1,9 @@
 # Banco J — Sistema Bancário Full Stack
 
-## Identificação
-
-| Campo     | Valor                  |
-| --------- | ---------------------- |
-| Nome      | _(seu nome aqui)_      |
-| Matrícula | _(sua matrícula aqui)_ |
-| Turma     | _(sua turma aqui)_     |
+- **Nome:** Davi Cavalcante França
+- **Matricula:** 2671244
+- **Disciplina:** Projeto de Programação
+- **Professor:** Amaury Nogueira Neto
 
 ---
 

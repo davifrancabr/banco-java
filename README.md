@@ -11,7 +11,7 @@
 
 Sistema bancário full stack com:
 
-- **Backend** Spring Boot 3.3 + Spring Security (BCrypt)
+- **Backend** Spring Boot 4.0 + Spring Security (BCrypt)
 - **Banco de dados** PostgreSQL com migrações Flyway
 - **Frontend** HTML/CSS/JS puro consumindo a API REST
 - **Docker** para orquestração do banco de dados
